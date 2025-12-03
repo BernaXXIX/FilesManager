@@ -4,14 +4,14 @@
 Per il nostro progetto abbiamo scritto un codice che permette all'utente di 
 * creare un file della tipologia richiesta al percorso richiesto con un nome richiesto
 * eliminare uno specifico file
->>> copiare uno specifico file
->>> rinominare un file
->>> spostare un file
->>> convertire il tipo del file
->>> stampare sul terminale i contenuti del file
->>> stampare su termnale un'immagine se il file in questione è un png
->>> contare il numero di caratteri
->>> aprire il file
+* copiare uno specifico file
+* rinominare un file
+* spostare un file
+* convertire il tipo del file
+* stampare sul terminale i contenuti del file
+* stampare su termnale un'immagine se il file in questione è un png
+* contare il numero di caratteri
+* aprire il file
 
 ## Requisiti e installazione
 * Elenco dei requisiti (es. versione del linguaggio, dipendenze).
