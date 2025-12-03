@@ -23,7 +23,7 @@ Inserire nel terminale le seguenti istruzioni:
 * [copia <nome_file> <tipo_file> <percorso>] per copiare un file
 * [rinonima <nome_file> <tipo_file> <percorso> <nome_nuovo>] per rinominare un file
 * [sposta <nome_file> <tipo_file> <percorso> <percorso_nuovo>] per spostare un file
-* ["converti <nome_file> <tipo_file> <percorso> <tipo_nuovo>] per convertire un file
+* [converti <nome_file> <tipo_file> <percorso> <tipo_nuovo>] per convertire un file
 * [leggi <nome_file> <tipo_file> <percorso>] per stampare il file sul terminale
 * [apri_img <nome_file> <percorso>] per stampare l'immagine sul terminale (solo per .png)
 * [conta_char <nome_file> <tipo_file> <percorso>] per contare il numero di caratteri in un file (solo per .txt)
