@@ -2,8 +2,8 @@
 
 ## Descrizione del progetto
 Per il nostro progetto abbiamo scritto un codice che permette all'utente di 
->>> creare un file della tipologia richiesta al percorso richiesto con un nome richiesto
->>> eliminare uno specifico file
+* creare un file della tipologia richiesta al percorso richiesto con un nome richiesto
+* eliminare uno specifico file
 >>> copiare uno specifico file
 >>> rinominare un file
 >>> spostare un file
