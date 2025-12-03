@@ -1,4 +1,4 @@
-# FilesManager
+# File Manager
 
 ## Descrizione del progetto
 Per il nostro progetto abbiamo scritto un codice che permette all'utente di 
